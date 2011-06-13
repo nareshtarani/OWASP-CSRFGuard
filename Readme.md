@@ -4,7 +4,7 @@
 
 Eric Sheridan [(eric.sheridan@owasp.org)](mailto:eric.sheridan@owasp.org), Copyright (c) 2011
 
-BSD License, All rights reserved.
+BSD License, All rights reserved. 
 
 ## Overview
 
